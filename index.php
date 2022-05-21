@@ -73,9 +73,9 @@
             <li><a href="index.php">Reset</a></li>
             <li><a href="md5.php">MD5 Encoder</a></li>
             <li><a href="makecode.php">MD5 Code Maker</a></li>
-            <!-- <li><a
-                href="https://github.com/csev/wa4e/tree/master/code/crack"
-                target="_blank">Source code for this application</a></li> -->
+            <li><a
+                href="https://github.com/Hanny2711/md5-Crack.git"
+                target="_blank">Source code for this application</a></li>
         </ul>
     </body>
 </html>
